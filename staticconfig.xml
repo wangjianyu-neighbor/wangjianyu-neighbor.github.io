@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<staticconfigs>
+	<item id="VersionString">3.5.6-Release.1</item>
+	<item id="ExeFileName">DingTalk.exe</item>
+	<item id="AutoRL">75</item>
+	<item id="LgTOut">10</item>
+	<item id="HttpTimo">15</item>
+	<item id="BottomFuncPanelSlotHeight">27</item>
+	<version_context cntaobao="normal" cnalichn="alitalk" default="normal">
+		<compatible>
+			<normal/>
+			<alitalk/>
+		</compatible>
+	</version_context>
+</staticconfigs>
